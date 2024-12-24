@@ -6,4 +6,5 @@ pip install ipykernel
 python -m ipykernel install --user --name=venv_codyssey_python
   . activate virtual env
 
+pip install jupyter-c-kernel
   
