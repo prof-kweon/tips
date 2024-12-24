@@ -1,0 +1,9 @@
+pip install jupyterlab
+jupyter lab --generate-config
+  . Writing default config to: C:\Users\Administrator\.jupyter\jupyter_lab_config.py
+jupyter extension in VSC
+pip install ipykernel
+python -m ipykernel install --user --name=venv_codyssey_python
+  . activate virtual env
+
+  
